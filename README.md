@@ -1,2 +1,2 @@
 #al-english-poems
-# add src folder with styles.css with basic css coding
+add src folder with styles.css file with basic css coding
